@@ -1,0 +1,1 @@
+This counter uses the ARM-A9 Private Timer to increment a counter and the values displayed on the HEX Display every 0.25 seconds. Resets back to zero after 99 is reached. Key presses detected by Polled I/O start/stop the counter. (lab3 part3)
